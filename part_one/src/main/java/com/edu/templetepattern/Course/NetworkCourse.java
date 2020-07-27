@@ -1,4 +1,4 @@
-package com.edu.TempletePattern.Course;
+package com.edu.templetepattern.Course;
 
 /**
  * @ClassName NetworkCourse
