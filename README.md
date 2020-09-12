@@ -55,3 +55,14 @@
 # part_two: 架构师的审美观
 ## spring
 
+### spring mvc
+```
+DispatchServlet extend HttpServlet
+    init() --> 初始化方法
+    service()  --> 浏览器输入url的时候，会从web容器调用 doGet 或者 doPost方法
+    destroy()  --> 销毁的方法
+
+
+```
+
+
