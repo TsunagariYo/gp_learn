@@ -1,4 +1,4 @@
-package com.edu.TempletePattern.JDBC;
+package com.edu.templetepattern.JDBC;
 
 import java.sql.ResultSet;
 
